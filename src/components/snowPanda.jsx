@@ -37,14 +37,14 @@ function SnowPanda() {
             go beyond the job search. Join us on a transformative journey, one
             connection at a time.
           </p>
-
           <p className="text-white text-[20px] leading-normal">
             <span className="text-[22px] font-bold text-[#46A1DA] leading-normal">
-              Why Choose Us<span className="tetx-black"> </span>
+              Our Speciality<span className="tetx-black"> </span>
             </span>
-            <p>• Technical experts who understand your job requirements thoroughly.</p>
-            <p>• Faster time to hire</p>
-            <p>• Lower hiring costs</p>
+            <p>• Software & Technlogy</p>
+            <p>• Electrical, Construction, Oil & Gas</p>
+            <p>• Design & Manufacturing</p>
+            <p>• Non-Profit & Charity</p>
           </p>
         </div>
       </div>
